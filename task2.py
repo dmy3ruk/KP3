@@ -1,3 +1,6 @@
+import math
+
+
 def task_2():
     x1 = float(input("Введіть координату x1 точки: "))
     y1 = float(input("Введіть координату y1 точки: "))
