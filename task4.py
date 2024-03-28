@@ -12,4 +12,4 @@ def task_4():
         print("Результат першого числа:",num1)
         print("Результат другого числа:", num2)
 
-#print(tack_4())
+print(task_4())

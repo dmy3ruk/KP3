@@ -6,4 +6,4 @@ def task_3():
         print("Такий трикутник існує")
         if(angle1==90 or angle2==90 or angle3==90):
             print("цей трикутник є прямокутним")
-#print(task_3())
+print(task_3())

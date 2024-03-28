@@ -12,4 +12,4 @@ def task_2():
     if(distance1 > distance2):
         print("перша точка ближча до координат")
     else:print("друга точка ближча до координат")
-#print(task_2())
+print(task_2())

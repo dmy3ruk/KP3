@@ -6,5 +6,5 @@ def task_6():
     for num in [a, b, c]:
         if num < 0:
             count += 1
-    print(count)
+    print("Кількість відємних чисел:",count)
 print(task_6())
